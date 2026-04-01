@@ -1,6 +1,5 @@
 import './App.css'
 import PageHeader from './components/PageHeader'
-import Menu from './components/Menu'
 import Products from './components/Products'
 
 
