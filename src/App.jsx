@@ -8,8 +8,7 @@ function App() {
   return (
     <div>
       <section id="center">
-        <PageHeader></PageHeader>
-        <Menu></Menu> 
+        <PageHeader></PageHeader> 
 
       </section>
     </div>
