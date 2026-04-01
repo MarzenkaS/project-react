@@ -1,4 +1,36 @@
-import { useState } from 'react'
+import './App.css'
+import PageHeader from './components/PageHeader'
+import Menu from './components/Menu'
+import Products from './components/Products'
+
+
+function App() {    
+  return (
+    <div>
+      <section id="center">
+        <PageHeader></PageHeader>
+        <Menu></Menu> 
+
+      </section>
+    </div>
+  )
+
+}
+
+export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
@@ -119,3 +151,4 @@ function App() {
 }
 
 export default App
+*/
